@@ -31,3 +31,8 @@ Execute o script principal para coletar os dados do Pokémon.
 Abra o Jupyter Notebook para realizar a análise visual e gerar gráficos.
 
 Este projeto é ideal para estudantes e profissionais interessados em explorar dados de Pokémons, aprimorar suas habilidades em coleta e manipulação de dados, e criar visualizações informativas e atrativas usando Python.
+
+** Próximos passos:
+ - Adicionar um menu para o usuário selecionar quer adicionar a base de dados um novo pokemon ou removê-lo;
+ - Implementar uma lógica para não ser possível repetir pokemons no db;
+ - Adicionar mais atributos a tabela pokemon para construir mais insights analíticos através de gráficos.
