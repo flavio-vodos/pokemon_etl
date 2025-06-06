@@ -36,3 +36,4 @@ Este projeto é ideal para estudantes e profissionais interessados em explorar d
  - Adicionar um menu para o usuário selecionar quer adicionar a base de dados um novo pokemon ou removê-lo;
  - Implementar uma lógica para não ser possível repetir pokemons no db;
  - Adicionar mais atributos a tabela pokemon para construir mais insights analíticos através de gráficos.
+ 
